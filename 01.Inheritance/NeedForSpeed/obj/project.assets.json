@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\NeedForSpeed\\NeedForSpeed.csproj",
+      "projectUniqueName": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\NeedForSpeed\\NeedForSpeed.csproj",
       "projectName": "NeedForSpeed",
-      "projectPath": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\NeedForSpeed\\NeedForSpeed.csproj",
+      "projectPath": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\NeedForSpeed\\NeedForSpeed.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\NeedForSpeed\\obj\\",
+      "outputPath": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\NeedForSpeed\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

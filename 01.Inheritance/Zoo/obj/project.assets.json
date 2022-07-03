@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\Zoo\\Zoo.csproj",
+      "projectUniqueName": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\Zoo\\Zoo.csproj",
       "projectName": "Zoo",
-      "projectPath": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\Zoo\\Zoo.csproj",
+      "projectPath": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\Zoo\\Zoo.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\Zoo\\obj\\",
+      "outputPath": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\Zoo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\Restaurant\\Restaurant.csproj": {}
+    "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\Restaurant\\Restaurant.csproj": {}
   },
   "projects": {
-    "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\Restaurant\\Restaurant.csproj": {
+    "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\Restaurant\\Restaurant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\Restaurant\\Restaurant.csproj",
+        "projectUniqueName": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\Restaurant\\Restaurant.csproj",
         "projectName": "Restaurant",
-        "projectPath": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\Restaurant\\Restaurant.csproj",
+        "projectPath": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\Restaurant\\Restaurant.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\Restaurant\\obj\\",
+        "outputPath": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\Restaurant\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

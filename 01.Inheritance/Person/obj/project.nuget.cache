@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8gQm9IcBTL0lPlMHU+MNQJ3FJa3rC2MHhnOoNwBRIsD/rC72G7wExjFqeYMu3inZwoZXry2+PSQAYlAU2qZg0A==",
+  "dgSpecHash": "ylSGm1gI9MRBB2k0/T0b5MEqTcqc4d9Wy8G3VCDeapqMq9A10oPMRmSQ+UAiyptWxcxn4NuiOALmSafkGjdLZw==",
   "success": true,
-  "projectFilePath": "D:\\PC\\jozo\\code\\VS\\OOP\\Inheritance\\01.Inheritance\\Person\\Person.csproj",
+  "projectFilePath": "D:\\PC\\jozo\\code\\VS\\OOP-SoftUni-Course\\01.Inheritance\\Person\\Person.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
