@@ -10,6 +10,11 @@
 *.userosscache
 *.sln.docstates
 
+#Ignor bin and obj dic
+\OOP-SoftUni-Course\*\*\bin
+\OOP-SoftUni-Course\*\*\obj
+\OOP-SoftUni-Course\*\*\bin*
+\OOP-SoftUni-Course\*\*\obj*
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
