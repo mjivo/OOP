@@ -10,7 +10,7 @@
 *.userosscache
 *.sln.docstates
 
-#Ignor bin and obj dic
+#Ignore bin and obj dic
 \OOP-SoftUni-Course\*\*\bin
 \OOP-SoftUni-Course\*\*\obj
 \OOP-SoftUni-Course\*\*\bin*
@@ -401,3 +401,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/01.Inheritance/Person/obj
+/01.Inheritance/Person/bin
