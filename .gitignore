@@ -24,6 +24,7 @@
 \OOP-SoftUni-Course\*\*\*.zip*
 \OOP-SoftUni-Course\**\*.zip
 #\**\**\**\*.zip
+/public/static/*.zip
 .zip
 *.zip
 
