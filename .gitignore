@@ -15,6 +15,15 @@
 \OOP-SoftUni-Course\*\*\obj
 \OOP-SoftUni-Course\*\*\bin*
 \OOP-SoftUni-Course\*\*\obj*
+
+#Ignore .zip files
+\OOP-SoftUni-Course\*\*\*.zip
+\OOP-SoftUni-Course\*\*.zip
+\OOP-SoftUni-Course\*\*\.zip*
+\OOP-SoftUni-Course\*\*\*.zip
+\OOP-SoftUni-Course\*\*\*.zip*
+.zip
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
