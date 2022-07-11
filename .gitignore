@@ -25,6 +25,8 @@
 \OOP-SoftUni-Course\**\*.zip
 #\**\**\**\*.zip
 /public/static/*.zip
+/*/*/*.zip
+/**/*.zip
 .zip
 *.zip
 **/*.zip
@@ -415,5 +417,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-/01.Inheritance/Person/obj
-/01.Inheritance/Person/bin
+
