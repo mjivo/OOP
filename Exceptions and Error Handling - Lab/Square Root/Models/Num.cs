@@ -20,6 +20,6 @@
                 this._value = value;
             }
         }
-        public double SquareRoot => Math.Sqrt(this.Value);
+        public double SquareRoot => Math.Round(Math.Sqrt(this.Value), 2);
     }
 }
